@@ -37,7 +37,7 @@ https://t.me/toneachat
 
 ### 任务描述：
 
-注意：本任务是选做任务，因为涉及购买 Gift NFT 需要花费一些 Toncoin。
+> 注意：本任务是选做任务，因为涉及购买 Gift NFT 需要花费一些 Toncoin。
 
 1. 通过 [Fragment](https://fragment.com/gifts?sort=price_asc&filter=sale) 购买一个 Gift NFT （推荐 5 TON 以下）
 2. 后续可选将这个 NFT 发送回 Telegram
