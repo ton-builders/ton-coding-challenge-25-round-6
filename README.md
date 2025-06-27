@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：[https://ton-org.notion.site/V-TON-Connect-2075274bd2cf8047a5a8d7e99c40b167](https://ton-org.notion.site/VI-Telegram-Stickers-Gifts-NFT-21d5274bd2cf803f8ae9cc749713594d)
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @Bledvrs
+2. 你的主网 TON 钱包地址 = UQDOfVrlUT1Jfr5K4VwY4Xd_ZnazLcvkp_kE143Tt3mdAlxr
 
 
 ## 任务 1：创建一个你的 Stickers
@@ -28,7 +28,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 你的新的 Stickers 地址 =  ?
+1. 你的新的 Stickers 地址 = https://t.me/addstickers/SmileStickerton
 
 
 ---
